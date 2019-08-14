@@ -1,0 +1,56 @@
+#xtream #panel #iptv #restream
+#ffmpeg #stalker #android 
+
+installation on debian 8 and now ubuntu 16
+
+put the 2  a and b files at the root
+
+chmod 755
+
+you start installation allA.sh after the installB.sh lunch
+follow the instructions
+
+installation
+
+update file to root directori chmod 755
+and restart
+!!!!! Do not forget the restart server dashboard
+
+
+############################
+install the balance
+repeat the same installation but with option 2 onanother server
+STREAMER ONLY Server (add new server)
+What to install? (1)| CMS, 2| STREAMER, 3| ALL-IN-ONE): 2 "2"| STREAMER"
+
+CMS address (only host name, e.g.: cms.domain.com)where your panel has already been installed
+
+
+
+
+
+
+
+
+CMS port: the port you chose before, when installing yourpanel
+
+Server Name: server.domain.com (e.g. S01.domain.com)
+
+Server IP: the IP address of s01.domain.com
+
+Server Private IP Address: the IP address of s01.domain.com (ONLY if you do not have an internal IPaddress on the server only when you run the if config command)
+
+
+###############################
+Streamer Updater
+
+Unzip streampanel.zip to the root directory ofthe chmod 755 and start the installation!
+
+restart your server and you can go to your panel,you have both servers
+
+###############################
+installation ubuntu 16
+
+to install it on ubuntu 16 well look installA.sh
+because php5.6 must be installed !
+if you need to install line by line before starting file no:2
